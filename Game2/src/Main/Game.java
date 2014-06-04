@@ -4,7 +4,7 @@ import javax.swing.*;
 
 public class Game {
 	
-	//test
+	//SSH-RSA TEST
 	
 	public static void main(String[] args) {
 		JFrame window = new JFrame("My Game");
