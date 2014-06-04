@@ -4,8 +4,6 @@ import javax.swing.*;
 
 public class Game {
 	
-	//NO
-	
 	public static void main(String[] args) {
 		JFrame window = new JFrame("My Game");
 		window.add(new GamePanel());
@@ -14,4 +12,5 @@ public class Game {
 		window.setVisible(true);
 		window.requestFocusInWindow();
 	}
+	
 }
