@@ -4,7 +4,7 @@ import javax.swing.*;
 
 public class Game {
 	
-	//This is my final test,maybe.
+	//NO
 	
 	public static void main(String[] args) {
 		JFrame window = new JFrame("My Game");
